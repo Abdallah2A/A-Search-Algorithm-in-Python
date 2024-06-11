@@ -1,5 +1,5 @@
 # A* Search Algorithm in Python
-This Python script implements the A* search algorithm to find the shortest path between cities on a map. The map is represented as a dictionary of dictionaries, where each key is a city, and its value is another dictionary representing neighboring cities and the cost to reach them.
+This Python script implements the A* search algorithm to find the shortest path between Egypt cities on a map. The map is represented as a dictionary of dictionaries, where each key is a city, and its value is another dictionary representing neighboring cities and the cost to reach them.
 
 ## Features
 - Map Representation: The map is stored in a dictionary where keys are city names, and values are dictionaries of neighboring cities with travel costs.
@@ -13,7 +13,7 @@ This Python script implements the A* search algorithm to find the shortest path 
 ## Running the Script
 1- Clone the repository (if applicable):
 ```bash
-git clone https://github.com/yourusername/astar-search.git
+git clone https://github.com/Abdallah2A/A-Search-Algorithm-in-Python
 ```
 
 2- Run the script:
